@@ -1,0 +1,16 @@
+{
+    "name": "jeanbaptiste/composer-quest",
+    "description": "Projet quete composer",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "DupontJeanBaptiste",
+            "email": "jbdupont67@gmail.com"
+        }
+    ],
+    "require": {}
+}
